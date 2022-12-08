@@ -3,7 +3,7 @@ astroid==1.6.5
 attrs==18.2.0
 Automat==0.7.0
 backports.functools-lru-cache==1.5
-certifi==2018.10.15
+certifi==2022.12.7
 chardet==3.0.4
 configparser==3.5.0
 constantly==15.1.0
